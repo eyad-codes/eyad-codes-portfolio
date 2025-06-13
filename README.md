@@ -15,16 +15,16 @@ This site showcases my skills, projects, and experience in a visually appealing 
 
 ## 📋 Table of Contents
 
-1. [📌 Introduction](#introduction)
-2. [🛠 Tech Stack](#tech-stack)
-3. [✨ Features](#features)
-4. [🚀 Quick Start](#quick-start)
-5. [🐞 Reporting Issues](#reporting-issues)
+1. [📌 Introduction](#📌-introduction)
+2. [🛠 Tech Stack](#🛠-tech-stack)
+3. [✨ Features](#✨-features)
+4. [🚀 Quick Start](#🚀-quick-start)
+5. [🐞 Reporting Issues](#🐞-reporting-issues)
 6. [📄 License](#license)
 
 ---
 
-## 📌 Introduction
+## 📌 Introduction 
 
 This project is a personal portfolio website for **Eyad Ahmed**, a passionate and dedicated Fullstack Developer.  
 It is designed to provide a seamless experience across all devices and platforms.  
@@ -39,7 +39,7 @@ The site includes multiple sections and dedicated pages to showcase my professio
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 
 <p align="left">
 
@@ -57,7 +57,7 @@ The site includes multiple sections and dedicated pages to showcase my professio
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 ✅ **Responsive Design** – Works perfectly across desktop, tablet, and mobile  
 ✅ **Hero Section** – Clean intro with call-to-action buttons (Download CV / Hire Me)  
